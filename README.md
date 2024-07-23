@@ -2,10 +2,6 @@
 
 Superviser This project was supervised by Victor Ikechukwu Agughasi.
 
-
-
-To create a `README.md` file that describes the HTML form and the steps to ensure no negative numbers can be entered in the form fields, you can use the following content:
-
 ```markdown
 # Student Performance Prediction Form
 
